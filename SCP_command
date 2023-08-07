@@ -1,1 +1,6 @@
+Hello from linux
+scp C:\Users\Hershko Family\Desktop\sample.txt shenhav@192.168.21.128: /home/shenhav/Desktop
+scp shenhav@192.168.21.128: /home/shenhav/Desktop C:\Users\Hershko Family\Desktop\sample.txt 
+
+
 
